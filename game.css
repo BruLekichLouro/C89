@@ -1,6 +1,6 @@
 body
 {
-	background: #ce4a4a;
+	background: lightblue;
 }
 
 	.login_div1 , .login_div2
@@ -12,7 +12,7 @@ body
 	}
 
 
-#player1_name , #player2_name
+#player1Name , #player2Name
 {
 	display: inline-block;
 	margin-left: 20px;
@@ -21,7 +21,7 @@ body
 {
 	width: 60%;
 }
-#word_display
+#wordDisplay
 {
 	letter-spacing: 5px;
 }
