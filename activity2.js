@@ -1,0 +1,8 @@
+function back() {
+
+    }
+    
+    function getScore()
+    {
+       
+    }
